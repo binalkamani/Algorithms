@@ -1,0 +1,9 @@
+# Problem Description
+
+Write a class called "Frequency".  Its main method should use a Scanner to input an integer and a string. The integer and string should be evaluated to print a frequency range abbreviation according to this table:  http://www.qsl.net/w2va/freq.htm
+
+For example, if the user enters 100 KHz, your program should write LF.
+
+For inputs outside the ranges in the table, just print Unknown. Integers can be compared with the == operator, but strings are compared with the equals method.  For example, a == b, if a and b are integers, or a.equals(b), if a and b are strings. 
+
+
