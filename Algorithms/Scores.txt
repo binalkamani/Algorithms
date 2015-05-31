@@ -1,0 +1,4 @@
+# Problem Description
+
+Write a class called "Scores".  Its main method should use a Scanner to input the name and 5 quiz scores for each of 10 different people.  
+Store the names in a 1D-array, and the scores in a 2D-array.  Then print each name and the average score of the student. 
