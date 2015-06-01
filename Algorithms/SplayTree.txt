@@ -1,0 +1,17 @@
+# Splaytree Problem
+
+Implementation of the SplayTree will store integers for its data rather than being generic. The rotations will need the parent and grandparent. The methods should all operate on the object making the call (none are static).
+
+a) add: Adds a node to the tree containing the passed integer value. Rotates the node to the top.
+
+b) remove: Removes a node just like a search tree does, then rotates the removed node's parent to the top.
+
+c) find: Returns true if the value passed is in the tree. Rotates the node to the top if found or the last node accessed if not found.
+
+d) leafCount: Returns the count of all of the leaves in the tree.
+
+e) leafSum: Returns the sum of all of the leaves in the tree.
+
+f) toString: Returns a string of the values of a preorder traversal of the nodes.
+
+g) Main: Demonstrates all of the above methods.
