@@ -1,0 +1,9 @@
+# Problem Description
+
+Create a generic class called HopscotchHashTable which uses a hop distance of 8. It should have the following methods in addition to a constructor.
+
+a) insert: inserts an item into the hashtable (don't worry about rehashing). duplicates can be ignored.  returns true if insert succeeded, else returns false.
+
+b) contains: returns true if the item is in the hashtable, else returns false.
+
+c) main: demonstrates that the insert and find methods work correctly.
